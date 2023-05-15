@@ -1,13 +1,23 @@
-const blush = 'Hello world'
+const blushraising_hand_man = 'Hello world'
 
-console.log(blush)
+console.log(blushraising_hand_man)
 
-function joyheart(ok_hand) {
+function mage_manmagic_wandunicorn(ok_hand) {
   console.log(ok_hand,ok_hand,ok_hand)
 }
 
-joyheart(blush)
+mage_manmagic_wandunicorn(blushraising_hand_man)
 
-const  sparkle = 'test'
+function clown_face(ribbon,sparkles,spiral_notepad) {
+  if(spiral_notepad <= 0) {
+    return sparkles
+  }
 
-console.log(sparkle)
+  return clown_face(sparkles,ribbon+sparkles,spiral_notepad-1) 
+}
+
+console.log(clown_face(0,1,7))
+
+const transgender_flag = 'test'
+
+console.log(transgender_flag)

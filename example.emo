@@ -1,13 +1,23 @@
-const 😊 = 'Hello world'
+const 😊🙋‍♂️ = 'Hello world'
 
-console.log(😊)
+console.log(😊🙋‍♂️)
 
-function 😂❤️(👌) {
+function 🧙‍♂️🪄🦄(👌) {
   console.log(👌,👌,👌)
 }
 
-😂❤️(😊)
+🧙‍♂️🪄🦄(😊🙋‍♂️)
 
-const ❇️ = 'test'
+function 🤡(🎀,✨,🗒️) {
+  if(🗒️ <= 0) {
+    return ✨
+  }
 
-console.log(❇️)
+  return 🤡(✨,🎀+✨,🗒️-1) 
+}
+
+console.log(🤡(0,1,7))
+
+const 🏳️‍⚧️ = 'test'
+
+console.log(🏳️‍⚧️)
