@@ -1,0 +1,13 @@
+const 😊 = 'Hello world'
+
+console.log(😊)
+
+function 😂❤️(👌) {
+  console.log(👌,👌,👌)
+}
+
+😂❤️(😊)
+
+const ❇️ = 'test'
+
+console.log(❇️)
