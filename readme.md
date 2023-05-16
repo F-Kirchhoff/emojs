@@ -1,6 +1,6 @@
 <img src='./assets/logo-emojs.png' width=250>
 
-# Emo.js 🖤🤖
+# Emo.js 🖤🤖 - write more expressive code
 
 Javascript is a perfect programming language but lacks one thing: emojis. This project addresses this issue by introducing a new superset of javascript: emo.js - javascript with emojis.
 
